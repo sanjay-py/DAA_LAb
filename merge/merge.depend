@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670399510 source:d:\sanjay_daa\merge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+

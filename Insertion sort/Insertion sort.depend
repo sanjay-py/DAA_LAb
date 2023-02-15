@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674026495 source:d:\sanjay_\insertion sort\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+

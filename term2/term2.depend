@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1671002431 source:d:\sanjay_daa\term2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+
